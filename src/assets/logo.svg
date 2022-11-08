@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscapeVersion="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodiDocname="logo.svg"
+   xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlnsSvg="http://www.w3.org/2000/svg">
+  <sodipodiNamedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscapeShowpageshadow="2"
+     inkscapePageopacity="0.0"
+     inkscapePagecheckerboard="0"
+     inkscapeDeskcolor="#d1d1d1"
+     inkscapeDocument-units="mm"
+     showgrid="false"
+     inkscapeZoom="0.71624579"
+     inkscapeCx="434.20849"
+     inkscapeCy="561.95793"
+     inkscapeWindow-width="1920"
+     inkscapeWindow-height="991"
+     inkscapeWindow-x="-9"
+     inkscapeWindow-y="-9"
+     inkscapeWindow-maximized="1"
+     inkscapeCurrent-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="27.923375"
+       y="145.20155"
+       width="714.83841"
+       height="103.31649"
+       id="rect1756" />
+  </defs>
+  <g
+     inkscapeLabel="Layer 1"
+     inkscapeGroupmode="layer"
+     id="layer1">
+    <text
+       xmlSpace="preserve"
+       transform="scale(0.26458333)"
+       id="text1754"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1756);fill:#000000;fill-opacity:1"><tspan
+         x="27.923828"
+         y="184.12729"
+         id="tspan2960"><tspan
+           style="fill:#eeeeee"
+           id="tspan2958">Reddit Saved Post Organizer</tspan></tspan></text>
+  </g>
+</svg>
